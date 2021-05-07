@@ -23,7 +23,7 @@
     "jquery": "^3.4.1",
     "mongoose": "^4.13.7",
     "time-formater": "^1.1.2",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "vue": "^2.5.9",
     "vue-axios": "^2.1.4",
     "vue-quill-editor": "^2.2.1",
